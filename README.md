@@ -2,6 +2,9 @@
 <h3 align="center">
 Software Developer | ASP.NET Core | C# | JavaScript | jQuery | .NET MAUI
 </h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=800&lines=ASP.NET+Core+Developer;C%23+%7C+JavaScript+%7C+jQuery;ERP+%7C+Attendance+%7C+Payroll+Systems;.NET+MAUI+Cross+Platform+Apps;Clean+Code+%26+Strong+Business+Logic" />
@@ -22,9 +25,7 @@ Software Developer | ASP.NET Core | C# | JavaScript | jQuery | .NET MAUI
 🏢 Experienced in **ERP, Attendance, Payroll & Biometric Systems**  
 🔐 Strong in **Business Logic, Stored Procedures & API Integration**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-</p>
+
 
 ---
 
