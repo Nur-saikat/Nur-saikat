@@ -1,32 +1,40 @@
 <h1 align="center">Hi 👋, I'm Shoikat Ahmed</h1>
-<h3 align="center">Software Developer | ASP.NET Core | C# | SQL Server</h3>
+<h3 align="center">
+Software Developer | ASP.NET Core | C# | JavaScript | jQuery | .NET MAUI
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shoikat-Ahmed&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Shoikat-Ahmed&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-💻 I am a passionate **Software Developer** specializing in **ASP.NET Core**, **C#**, and **SQL Server**.  
-🏢 Experienced in **ERP, Attendance & Payroll Systems**  
-🔐 Strong in **Stored Procedures, API Development & Business Logic**  
-📈 Focused on building **scalable & secure applications**
+💻 I am a passionate **Software Developer** with strong experience in  
+**ASP.NET Core, C#, JavaScript, jQuery & SQL Server**  
+
+📱 I also build **cross-platform apps using .NET MAUI**  
+🏢 Worked on **ERP, Attendance, Payroll & Biometric Systems**  
+🔐 Strong in **Business Logic, Stored Procedures & API Integration**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💡 Backend
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet)
 ![Web API](https://img.shields.io/badge/Web_API-00599C?style=for-the-badge)
 
-### 🎨 Frontend
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+### 🌐 Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+
+### 📱 Mobile / Desktop
+![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet)
 
 ### 🗄️ Database
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
@@ -42,33 +50,36 @@
 ## 📂 Featured Projects
 
 ### 🧾 Attendance & Payroll Management System
-🔹 Employee attendance, salary & leave management  
-🔹 Payroll calculation with business rules  
+✔ Employee Attendance  
+✔ Payroll & Salary Calculation  
+✔ Leave & Reports  
 
-**Tech:** ASP.NET Core, SQL Server, Vue.js  
-🔗 Repo: *(Add GitHub Link)*
+**Tech:** ASP.NET Core, SQL Server, JavaScript, jQuery  
+🔗 Repo: *(Add Link)*
 
 ---
 
 ### 🏢 ERP Management System
-🔹 Announcement, Personnel & Loan Proposal Module  
-🔹 Smart Card & NID Verification Logic  
+✔ Announcement & Personnel Module  
+✔ Loan Proposal & Verification Logic  
+✔ Stored Procedure Based Business Rules  
 
-**Tech:** ASP.NET Core, SQL Server (SP Based)  
-🔗 Repo: *(Add GitHub Link)*
-
----
-
-### 🖐️ Biometric Attendance Desktop App
-🔹 Desktop-based biometric system  
-🔹 ASP.NET Core API integration  
-
-**Tech:** C#, WinForms/WPF, Web API  
-🔗 Repo: *(Add GitHub Link)*
+**Tech:** ASP.NET Core, SQL Server  
+🔗 Repo: *(Add Link)*
 
 ---
 
-## 📊 GitHub Analytics
+### 📱 .NET MAUI Attendance App
+✔ Cross-platform (Android / Windows)  
+✔ API Integrated  
+✔ Offline-ready Structure  
+
+**Tech:** .NET MAUI, Web API  
+🔗 Repo: *(Add Link)*
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shoikat-Ahmed&show_icons=true&theme=tokyonight" />
@@ -80,12 +91,12 @@
 
 ---
 
-## 📫 Contact Information
+## 📫 Contact Me
 
-📧 Email: **abshoikat@shakti.org.bd**  
-💼 LinkedIn: *(Add Your LinkedIn URL)*  
+📧 Email: **abdurnursaikat04@gmail.com**  
+💼 LinkedIn: *(Add your LinkedIn URL)*  
 🌐 GitHub: https://github.com/Shoikat-Ahmed  
 
 ---
 
-⭐ *“Clean Code, Strong Logic & Scalable Architecture”*
+⭐ *Clean Code | Strong Logic | Real-world Systems*
